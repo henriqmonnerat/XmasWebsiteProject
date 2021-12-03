@@ -3,7 +3,7 @@ Learn HTML and CSS by designing and coding a Merry Xmas message for your school.
 
 Welcome friends,
 
-I heard many of you are excited to learn to program this year. That is so cool, as I want to learn more about programming so we can learn and grow together. 
+I heard many of you are excited to learn to program this year. That is so cool, as I also want to learn more about programming. So we can learn and grow together. 
 
 There are many things I am excited about when it comes to programming, but I thought we could start by exploring how we code websites and host them on the web for others to see.
 
