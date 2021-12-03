@@ -13,9 +13,10 @@ The idea is to design and code a website containing a special Christmas message 
 
 I have never done such a project, and it may actually fail because we don’t have so much time. After all, Xmas is just around the corner, but it might be very cool if it does work. 
 
-So the idea is to collectively create one website in which visitors can click a ready each of your messages on a different webpage. We would put together all the necessary files and host the page in GitHub (which I personally haven’t used before, but I found this fantastic article that points us in the right direction).
+So the idea is to collectively create one website in which visitors can click a ready each of your messages on a different webpage. We would put together all the necessary files and host the page in GitHub (which I personally haven’t used before, but I found this [article](https://medium.com/@svinkle/publish-and-share-your-own-website-for-free-with-github-2eff049a1cb5) that points us in a possible direction).
 
 Now because this is website would be public, you may not share any private information like (that is information that can be used to identify yourself as an individual like address, full name, personal pictures, i.e.). But we can make it fun and cheerful, plus we will spread a positive message and best wishes in a time where we all can use some love and care.
+
 Everything we place on this website must be created by us, so no downloading images from the web to put on our Xmas website. You have to design it from scratch using whatever medium you prefer. 
 
 You must use HTML and CSS because we will be practicing writing code, so imagine that you will be writing your message using HTML and Styling your page using CSS.
