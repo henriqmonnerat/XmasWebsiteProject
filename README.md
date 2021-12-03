@@ -15,7 +15,7 @@ I have never done such a project, and it may actually fail because we don’t ha
 
 So the idea is to collectively create one website in which visitors can click a ready each of your messages on a different webpage. We would put together all the necessary files and host the page in GitHub (which I personally haven’t used before, but I found this [article](https://medium.com/@svinkle/publish-and-share-your-own-website-for-free-with-github-2eff049a1cb5) that points us in a possible direction).
 
-Now because this is website would be public, you may not share any private information like (that is information that can be used to identify yourself as an individual like address, full name, personal pictures, i.e.). But we can make it fun and cheerful, plus we will spread a positive message and best wishes in a time where we all can use some love and care.
+Now because this is website would be public, you may not share any private information (that is information that can be used to identify yourself as an individual like address, full name, personal pictures, i.e.) in your Xmas message page. But we can make it fun and cheerful, plus we will spread a positive message and best wishes in a time where we all can use some love and care.
 
 Everything we place on this website must be created by us, so no downloading images from the web to put on our Xmas website. You have to design it from scratch using whatever medium you prefer. 
 
